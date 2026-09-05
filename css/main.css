@@ -2,8 +2,19 @@
 
 
 h1{
-    color:rgb(51, 123, 195);
+    color:rgb(17, 51, 84);
     font-family:sans-serif;
-    font: size 64px;
+    font-size: 64px;
 }
 
+h2{
+    color:rgb(13, 61, 79);
+    font-family:sans-serif;
+    font-size: 32px;
+}
+
+ p{
+    color:rgb(12, 14, 17);
+    font-family:sans-serif;
+    font-size: 16px;
+ }
