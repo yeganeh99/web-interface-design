@@ -18,3 +18,20 @@ h2{
     font-family:sans-serif;
     font-size: 16px;
  }
+
+ img{
+    
+ }
+.first_reason img {
+    width:100px;
+    height:100px;
+}
+
+.second_reason img{
+    width:100px;
+    height:100px;
+}
+.third_reason img{
+    width: 100px;
+    height: 100px;
+}
