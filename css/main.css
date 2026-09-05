@@ -39,3 +39,9 @@ h2{
 body{
     background-color:lightgray 
 }
+
+.card row{
+    display:flex;
+    flex-direction:row;
+    gap:100px;
+}
